@@ -1,0 +1,19 @@
+// cool stuff
+yeap.
+Component is the widget of sorts which perform some action.
+App consists of various components.
+
+Difference between React and ReactNative.
+React knows how a component should behave.
+React Native  knows how to take the output from a component and place it on the screen.
+
+React knows how to take a bunch of components and make them work together.
+ReactNative provides default core components(image, video)/
+
+import- we can reach to other files and work with the code.
+
+
+
+jsx is javascript extension for writing react components with html complement support sort of.
+
+jsx is the dialect of javascript to define what has to be displayed on the screen.
